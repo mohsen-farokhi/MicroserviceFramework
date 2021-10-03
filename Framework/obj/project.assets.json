@@ -588,7 +588,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\m.farokhi\\source\\Repos\\MicroserviceFramework\\Framework\\Framework.csproj",
-      "projectName": "Framework",
+      "projectName": "Farokhi.Microservice.Framework",
       "projectPath": "C:\\Users\\m.farokhi\\source\\Repos\\MicroserviceFramework\\Framework\\Framework.csproj",
       "packagesPath": "C:\\Users\\m.farokhi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\m.farokhi\\source\\Repos\\MicroserviceFramework\\Framework\\obj\\",

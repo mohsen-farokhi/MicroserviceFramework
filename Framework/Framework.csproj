@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <PackageId>Farokhi.Microservice.Framework</PackageId>
+    <Authors>Mohsen Farokhi</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>Mohsen.Farokhi</Company>
+    <Product>Farokhi.Microservice.Framework</Product>
+    <RepositoryUrl>https://github.com/mohsen-farokhi/MicroserviceFramework</RepositoryUrl>
+    <PackageTags>Farokhi, Microservice, Framework</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

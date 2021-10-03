@@ -1,0 +1,11 @@
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\bin\Release\net5.0\Framework.deps.json
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\bin\Release\net5.0\Framework.dll
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\bin\Release\net5.0\ref\Framework.dll
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\bin\Release\net5.0\Framework.pdb
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\obj\Release\net5.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\obj\Release\net5.0\Framework.AssemblyInfoInputs.cache
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\obj\Release\net5.0\Framework.AssemblyInfo.cs
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\obj\Release\net5.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\obj\Release\net5.0\Framework.dll
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\obj\Release\net5.0\ref\Framework.dll
+C:\Users\m.farokhi\source\Repos\MicroserviceFramework\Framework\obj\Release\net5.0\Framework.pdb
